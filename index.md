@@ -1,12 +1,12 @@
 ---
-title: Joe Snuffy | Software Engineer
+title: Andy Clark | Senior Software Engineer
 ---
 
-# Joe Snuffy
+# Andy Clark
 **Senior Software Engineer**
 
-📧 you@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname) · [GitHub](https://github.com/yourusername) · [Website](https://yourdomain.com)
+📧 andyclark.dev@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/andyclarkdev) · [GitHub](https://github.com/andyclarkdev) · [Website](https://andyclark.dev)
 
 ---
 
