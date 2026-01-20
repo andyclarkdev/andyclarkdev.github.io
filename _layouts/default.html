@@ -14,21 +14,40 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-        </section>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="height: 80px" />
-        {% endif %}
+        <div
+          style="
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+          "
+        >
+          <img
+            src="{{ site.logo | relative_url }}"
+            alt="Logo"
+            style="
+              height: 80px;
+              display: block;
+              margin: 0 auto;
+            "
+          />
+        
+          <div
+            style="
+              text-align: center;
+              width: 100%;
+            "
+          >
+            <a id="a-title" href="{{ '/' | relative_url }}" style="text-decoration: none;">
+              <h1 style="margin: 0;">
+                {{ site.title | default: site.github.repository_name }}
+              </h1>
+            </a>
+            <h2 style="margin: 0;">
+              {{ site.description | default: site.github.project_tagline }}
+            </h2>
+          </div>
+        </div>
       </div>
     </header>
 
