@@ -4,6 +4,35 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .site-header {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+      }
+    
+      .site-logo {
+        height: 80px;
+        flex-shrink: 0;
+      }
+    
+      .site-text h1,
+      .site-text h2 {
+        margin: 0;
+      }
+    
+      /* Mobile only */
+      @media (max-width: 640px) {
+        .site-header {
+          flex-direction: column;
+          text-align: center;
+        }
+    
+        .site-logo {
+          margin-bottom: 8px;
+        }
+      }
+    </style>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
@@ -13,40 +42,18 @@
   <body>
 
     <header>
-      <div class="container">
-        <div
-          style="
-            display: flex;
-            align-items: center;
-            gap: 16px;
-            flex-wrap: wrap;
-          "
-        >
-          <img
-            src="{{ site.logo | relative_url }}"
-            alt="Logo"
-            style="
-              height: 80px;
-              display: block;
-              margin: 0 auto;
-            "
-          />
-        
-          <div
-            style="
-              text-align: center;
-              width: 100%;
-            "
-          >
-            <a id="a-title" href="{{ '/' | relative_url }}" style="text-decoration: none;">
-              <h1 style="margin: 0;">
-                {{ site.title | default: site.github.repository_name }}
-              </h1>
-            </a>
-            <h2 style="margin: 0;">
-              {{ site.description | default: site.github.project_tagline }}
-            </h2>
-          </div>
+      <div class="site-header">
+        <img
+          src="{{ site.logo | relative_url }}"
+          alt="Logo"
+          class="site-logo"
+        />
+      
+        <div class="site-text">
+          <a id="a-title" href="{{ '/' | relative_url }}" style="text-decoration:none;">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </div>
       </div>
     </header>
