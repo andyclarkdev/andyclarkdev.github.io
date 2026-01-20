@@ -1,10 +1,3 @@
----
-title: Andy Clark | Senior Software Engineer
----
-
-# Andy Clark
-**Senior Software Engineer**
-
 📧 andyclark.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/andyclarkdev) · [GitHub](https://github.com/andyclarkdev) · [Website](https://andyclark.dev)
 
