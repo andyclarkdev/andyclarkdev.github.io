@@ -4,12 +4,18 @@
 ---
 
 ## Professional Summary
-Experienced software engineer with a strong background in .NET, Azure, and cloud-native systems. Proven track record building reliable, scalable solutions and mentoring teams.
+Full-stack software engineer with proven experience designing and developing cloud-native software solutions, focused on quality and reliability, and committed to education through continued training and certification.
+
+---
+
+## Certifications
+- Microsoft Azure AI Fundamentals (AZ-900) - 2025
+- Certified Information Systems Security Professional (CISSP) - 2013 (exp: 4/30/2028)
 
 ---
 
 ## Core Skills
-- **Languages:** C#, .NET, SQL, Python
+- **Languages:** C#, Python, SQL, KQL
 - **Cloud:** Azure, Azure Functions, Cosmos DB, Key Vault
 - **DevOps:** GitHub Actions, CI/CD, Infrastructure as Code
 - **Data:** KQL, Application Insights, telemetry analysis
