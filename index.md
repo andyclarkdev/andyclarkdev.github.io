@@ -16,16 +16,23 @@ Full-stack software engineer with proven experience designing and developing clo
 
 ## Experience
 - **Microsoft:**, Annapolis Junction, MD
-  - Position: Senior Software Engineer
-  - *Tools and Technologies*: C#, Visual Studio
-  - Responsibilities/Accomplishments:
+
+  Position: Senior Software Engineer
+
+  *Tools and Technologies*: C#, Visual Studio
+
+  <u>Responsibilities/Accomplishments</u>:
     - One
     - Two
-    - Three  
+    - Three
+  
 - **MartiFederal:**, Columbia, MD
-  - Position: Senior Software Engineer
-  - *Tools and Technologies*: C#, Visual Studio
-  - Responsibilities/Accomplishments:
+
+  Position: Senior Software Engineer
+
+  *Tools and Technologies*: C#, Visual Studio
+
+  <u>Responsibilities/Accomplishments</u>:
     - One
     - Two
     - Three 
