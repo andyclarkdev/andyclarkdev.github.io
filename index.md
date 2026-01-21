@@ -3,7 +3,7 @@
 
 ---
 
-## Professional Summary
+## Summary
 Full-stack software engineer with proven experience designing and developing cloud-native software solutions, focused on quality and reliability, and committed to education through continued training and certification.
 
 ---
@@ -14,11 +14,20 @@ Full-stack software engineer with proven experience designing and developing clo
 
 ---
 
-## Core Skills
-- **Languages:** C#, Python, SQL, KQL
-- **Cloud:** Azure, Azure Functions, Cosmos DB, Key Vault
-- **DevOps:** GitHub Actions, CI/CD, Infrastructure as Code
-- **Data:** KQL, Application Insights, telemetry analysis
-- **Other:** REST APIs, distributed systems, automation
+## Experience
+- **Microsoft:**, Annapolis Junction, MD
+  - Position: Senior Software Engineer
+  - *Tools and Technologies*: C#, Visual Studio
+  - Responsibilities/Accomplishments:
+    - One
+    - Two
+    - Three  
+- **MartiFederal:**, Columbia, MD
+  - Position: Senior Software Engineer
+  - *Tools and Technologies*: C#, Visual Studio
+  - Responsibilities/Accomplishments:
+    - One
+    - Two
+    - Three 
 
 ---
