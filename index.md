@@ -15,7 +15,7 @@ Full-stack software engineer with proven experience designing and developing clo
 ---
 
 ## Experience
-- **Microsoft**, Annapolis Junction, MD
+- **Microsoft**, Annapolis Junction, MD (2021 - present)
 
   Position: Senior Software Engineer
 
@@ -26,7 +26,7 @@ Full-stack software engineer with proven experience designing and developing clo
     - Two
     - Three
   
-- **MartiFederal**, Columbia, MD
+- **MartiFederal**, Columbia, MD (2017 - 2021)
 
   Position: Senior Software Engineer
 
