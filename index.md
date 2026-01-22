@@ -9,7 +9,7 @@ Full-stack software engineer with proven experience designing and developing clo
 ---
 
 ## Certifications
-- Microsoft Azure AI Fundamentals (AZ-900) - 2025
+- <img src='/assets/img/msft-certified.png' style='height: 20px' /> Microsoft Azure AI Fundamentals (AZ-900) - 2025
 - Certified Information Systems Security Professional (CISSP) - 2013 (exp: 4/30/2028)
 
 ---
