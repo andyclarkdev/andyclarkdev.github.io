@@ -15,7 +15,7 @@ Full-stack software engineer with proven experience designing and developing clo
 ---
 
 ## Experience
-- **Microsoft**, Annapolis Junction, MD (2021 - present)
+- **Microsoft**, Annapolis Junction, MD (2021 - present) 
 
   Position: Senior Software Engineer
 
