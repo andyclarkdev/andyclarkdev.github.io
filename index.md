@@ -1,5 +1,5 @@
-📧 andyclark.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/andyclarkdev) · [GitHub](https://github.com/andyclarkdev) · [Website](https://andyclark.dev)
+andyclark.dev@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/andyclarkdev) · [GitHub](https://github.com/andyclarkdev)
 
 ---
 
